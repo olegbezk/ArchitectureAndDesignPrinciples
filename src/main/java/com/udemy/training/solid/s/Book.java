@@ -1,4 +1,4 @@
-package com.udemy.training.solid;
+package com.udemy.training.solid.s;
 
 public class Book implements BookHandler{
 
